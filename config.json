@@ -1,0 +1,8 @@
+{
+  "adb_path": "adb",
+  "device_serial": "",
+  "bridge_component": "ru.example.ssptestbridge/.MainActivity",
+  "ssp_package": "com.skytech.smartskypos",
+  "timeout_seconds": 240,
+  "logcat_tag_prefix": "SSP_BRIDGE_RESULT:"
+}
